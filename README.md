@@ -20,6 +20,7 @@
 
 [Projects](#A-selection-of-my-projects) |
 [My Background](#My-background-and-career-change-motivations) |
+[Software Engineering Training](#Makers-bootcamp-software-engineering-training |
 [GitHub CV](https://github.com/kat-mcbrooks/CV) 
 </div>
 
@@ -40,6 +41,14 @@ Find all my repositories [here](https://github.com/kat-mcbrooks?tab=repositories
 | [Bowling](https://github.com/kat-mcbrooks/bowling-challenge) | Program that calculates a player’s game score, with CLI. I was instructed to focus on the logic for this challenge | JavaScript, Jest |
 | [Chitter](https://github.com/kat-mcbrooks/chitter-challenge) | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
+### Makers bootcamp: software engineering training
+- Fast-paced learning to fulfil project requirements to tight deadlines
+- Working collaboratively on team projects (scoping user requirements, running sprints, stand-ups, retros and allocating tickets)
+- Developing and applying best practices and principles within my work: Separation of concerns/SRP, TDD, MVC, DDD, Agile working
+- Proactive and self-led learning to improve my skills and complete solo projects and challenges (e.g. Chitter, Bank)
+- My adaptability and strong people skills mean I worked well in teams and pair programming, adapting my approach and communication style to suit a range of people
+- Troubleshooting and debugging to support other developers when they encounter problems
+- EQ training including feedback, empathy, which has proven invaluable during code reviews
 
 ### My background and career change motivations
 Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and methodically. Later, when working as an events manager, my creativity and can-do approach enabled me to solve problems and lead the delivery team onsite. Through Makers, I have learnt to my analytical mind and problem-solving skills when working independently or within a team to deliver a new app or program that meets user requirements.
