@@ -20,7 +20,7 @@
 
 [Projects](#A-selection-of-my-projects) |
 [My Background](#My-background-and-career-change-motivations) |
-[Software Engineering Training](#Makers-bootcamp:-software-engineering-training) |
+[Software Engineering Training](#Makers-bootcamp-software-engineering-training) |
 [GitHub CV](https://github.com/kat-mcbrooks/CV) 
 </div>
 
