@@ -39,7 +39,7 @@ Find all my repositories [here](https://github.com/kat-mcbrooks?tab=repositories
 | [Pokemon Top Trumps](https://github.com/kat-mcbrooks/pokemon) | I built a CLI Pokemon Top Trumps game, requesting data from the PokeAPI | Python, Pytest
 | [DigiPolls](https://github.com/kat-mcbrooks/polling-app-python-django) | Web app that presents poll questions to users, a voting page and a results page | Python, Django, Pytest |
 | [Bowling](https://github.com/kat-mcbrooks/bowling-challenge) | Program that calculates a player’s game score, with CLI. I was instructed to focus on the logic for this challenge | JavaScript, Jest |
-| [Chitter](https://github.com/kat-mcbrooks/chitter-challenge) | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
+| [Chitter](https://github.com/kat-mcbrooks/chitter-challenge) | My first relational database CRUD app, a 'Twitter clone' | Postgres, Sinatra, Ruby, Rspec
 
 ### Makers bootcamp: software engineering training
 - Fast-paced learning to fulfil project requirements to tight deadlines
