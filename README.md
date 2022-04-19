@@ -33,7 +33,7 @@ Find all my repositories [here](https://github.com/kat-mcbrooks?tab=repositories
 | Name              | Description                           | Tech/tools        |
 | ------------------| -----------------             | ----------------- |
 | [PairPro](https://github.com/kat-mcbrooks/pair-pro) | Web app with real-time chat that connects software developers who are interested in finding others to pair program with. | MERN stack, Javascript, Socket.IO, Cypress, Heroku |
-| [MugBook](https://github.com/kat-mcbrooks/acebook-mugbook)| Facebook-style web app. | Javascript, Jest |
+| [MugBook](https://github.com/kat-mcbrooks/acebook-mugbook)| Facebook-style web app. | Rails, Ruby, Capybara, RSpec |
 | [News headlines](https://github.com/kat-mcbrooks/news-summary-challenge)| Web app that displays the latest headlines, using the Guardian API, with a search filter option. | Javascript, Jest |
 | [Task Manager](https://github.com/kat-mcbrooks/to-do-app-TS-React) | Frontend single-page web app that allows users to add tasks and drag and drop them from Active to Complete | TypeScript, React |
 | [Pokemon Top Trumps](https://github.com/kat-mcbrooks/pokemon) | I built a CLI Pokemon Top Trumps game, requesting data from the PokeAPI | Python, Pytest
