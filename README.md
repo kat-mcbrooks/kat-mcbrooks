@@ -1,8 +1,8 @@
 <div align="center">
   <h1> Kat Brooks</h1>
-  <h3> Junior Full Stack Software Developer </h3>
-    <h4> Makers Software Engineering bootcamp | First class BSc Mathematics and Spanish | Former Events Manager </h4>
-  
+  <h3> Full Stack Software Developer </h3>
+      <h4> 2.5 years in full-time roles as a full-stack software developer, following training on Makers Software Engineering bootcamp </h4>
+    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
@@ -14,7 +14,6 @@
 <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://devicons.herokuapp.com/heroku-original.svg" alt="heroku" width="40" height="40"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 
@@ -26,9 +25,33 @@
 
 ### Intro
 
-Equipped with best engineering practices I gained through Makers software developer bootcamp, I am looking to join a collaborative and stimulating workplace where I can continue expanding my skillset. Teammates value my positive attitude, methodical approach and commitment to reusable, test-driven code. 
+2.5 years working as a full stack Software Engineer.
+Primary technologies used: 
+- Typescript
+- Node.js
+- React
+- Cypress, Jest, Mocha, Chai
+- AWS, Sentry, Heroku, Papertrail
 
-### A selection of my projects
+Learnt engineering best practices during my 4 months training on Makers Software Developer bootcamp.
+I am looking for a new opportunity where I can continue expanding my skillset. Teammates value my inquisitive and positive attitude, methodical approach and commitment to reusable, scaleable, clean code. 
+
+### Current role
+Full stack Software Engineer at [Farewill](https://farewill.com/)
+August 2022 - Present
+
+Work in a small team (3-4 engineers in my product team, part of a larger Engineering guild with whom I work collaboratively but less closely than my product team) 
+Start-up - the work is fast-paced. We iterate quickly and optimise for releasing value to the business as soon as. 
+Tech-lead on various projects including Member-Get-Member (referrals), price changes, updating the probate quote calculator, launch of new product landing pages.
+
+Primary technologies used: 
+- Typescript
+- Node.js
+- React
+- Cypress, Jest, Mocha, Chai
+- AWS, Sentry, Heroku, Papertrail
+
+### Selection of projects as part of Makers training
 Find all my repositories [here](https://github.com/kat-mcbrooks?tab=repositories).
 | Name              | Description                           | Tech/tools        |
 | ------------------| -----------------             | ----------------- |
